@@ -1,4 +1,0 @@
-{:name kotoba-util
- :version "0.1.0"
- :description "Pure Kotoba utility operations replacing java.util/java.io/java.nio"
- :license {:name "MIT"}}
